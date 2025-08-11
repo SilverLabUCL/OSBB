@@ -45,7 +45,7 @@ author-name: Open Source Brain & Behaviour
 # URL for the Image of the Author
 author-image: /assets/images/osbblogo.jpg
 # 60 Words About the Author
-author-about: OSBB will seamlessly integrate the necessary scripts and applications to build advanced, data-driven models that combine neural circuits, musculoskeletal systems, and the physical environment. This integration will facilitate direct comparisons between simulated outputs and experimental measurements.<br/><b>NOTE - Work in progress!</b>
+author-about: OSBB will seamlessly integrate the necessary scripts and applications to build advanced, data-driven models that combine neural circuits, musculoskeletal systems, and the physical environment. This integration will facilitate direct comparisons between simulated outputs and experimental measurements. It will be facilitated by the new<a href="neuromech.org">NeuroMech language</a>for standardised descriptions of neuromechanical models. <br/><br/>This will build on the work to date sharing neuroscience data and models on<a href="https://www.opensourcebrain.org">Open Source Brain</a>and creating community wide standards for computational models of neuronal systems (the<a href="https://www.neuroml.org">NeuroML</a>specification). <br/><b>NOTE - Work in progress!</b>
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://silverlab.org
 
